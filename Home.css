@@ -1,0 +1,137 @@
+*{
+    margin : 0px;
+}
+ 
+#header{
+    background-color: #0c2933;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+#stone{
+    background-color: #0c2933;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 120%;
+}
+
+#alink{
+    background-color: #0c2933;
+    color: white;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#image{
+    height: 280px;
+    width: 100%;
+} 
+
+#textlawncare{
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 280%;
+    color: #5a2f2f;
+}
+
+#paragraphone{
+    padding-top: 3%;
+    padding-left: 17%;
+    padding-right: 17%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+    text-align: center;
+}
+
+#textourservices{
+    font-family: serif;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    display: inline-block;
+    color: #5a2f2f;
+    font-size: 240%;
+}
+
+#texttitle{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+#titlecenter{
+    text-align: center;
+}
+
+#title{
+    font-family: 'Times New Roman',Times,serif;
+    display: flex;
+    justify-content: space-around;
+    color: #5a2f2f;
+    font-size: 150%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#titleone{
+    font-size: 150%;
+    padding-left: 11%;
+    padding-right: 10%;
+}
+
+#paragraphtwo{
+    font-family: 'Times New Roman',Times,serif;
+    display: flex;
+    justify-content: space-around;
+    font-size: 80%;
+    margin-left: 15px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+#paragraphstyle{
+    font-size: 160%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+#flowerstyle{
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+#flowerone{
+    margin-top: 8%;
+    padding-left: 1%;
+}
+
+#flowertwo{
+    margin-top: 6.5%;
+    padding-left: 15%;
+    width: 85%;
+    height: auto;
+}
+
+#igandtwit{
+    width: 3%;
+    height: 3%;
+}
+
+#textpowered{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#footer{
+    margin-top: 3%;
+    background-color: #0c2933;
+    text-align: center;
+    padding: 0.5%;
+}
